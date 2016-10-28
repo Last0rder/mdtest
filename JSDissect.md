@@ -15,4 +15,4 @@
    * After we have covered more about Javascript, we will revisit this code later.
 
 
-   * __Additional Note:__ When downloading code from Slack, be sure to hit "Download". If you copy and paste directly from Slack into Sublime, your code will not work.
+   * __Additional Note: When downloading code from Slack, be sure to hit "Download". If you copy and paste directly from Slack into Sublime, your code will not work.__
