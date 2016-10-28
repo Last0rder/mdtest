@@ -33,7 +33,7 @@
 
 	![Solved Code](/zooloopsolve.png)
 
-   * For variable *__i__*, which starts at 0, as long as *__i__* is less than the length of the zooAnimals array, and increasing i by 1 each time we loop through.
+   * For variable *__i__*, which starts at 0, as long as *__i__* is less than the length of the zooAnimals array, and increasing *__i__* by 1 each time we loop through.
 
    * We then console log the items each time based upon it's index number, which starts at 0 and ends at 3.
 
