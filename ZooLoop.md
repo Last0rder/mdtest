@@ -1,4 +1,4 @@
-#3.2 Zoo Loop
+#Zoo Loop
 
 ##Activity: ZooLoop.html
 

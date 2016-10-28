@@ -1,4 +1,4 @@
-#3.1 Code Dissection
+#Code Dissection
 
 ##Activity: JSDissect.html
 
