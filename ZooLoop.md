@@ -25,7 +25,7 @@
 
 ###Solution Notes:
 
-   * [Please check out the solution on YouTube.(https://img.youtube.com/vi/zJO9g7S2_Xo/0.jpg)](https://www.youtube.com/watch?v=zJO9g7S2_Xo)
+   * ![Please check out the solution on YouTube.(https://img.youtube.com/vi/zJO9g7S2_Xo/0.jpg)](https://www.youtube.com/watch?v=zJO9g7S2_Xo)
 
    * We used a for-loop that rotates through the zooAnimals array based on its length.
 
